@@ -1,3 +1,4 @@
 [submodule "streamlit"]
 	path = streamlit
-	url = https://github.com/whitphx/streamlit.git
+	url = https://github.com/bbbruce/streamlit.git
+	branch = develop-508-stlite
